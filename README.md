@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/igkuz/demo_exception_handling.png)](https://travis-ci.org/igkuz/demo_exception_handling)
+[![Build Status](https://travis-ci.org/igkuz/demo_exception_handling.png?branch=master)](https://travis-ci.org/igkuz/demo_exception_handling)
 
 # Demo Exception Handling Appllication
 
