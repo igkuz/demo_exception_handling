@@ -3,3 +3,5 @@
 # Demo Exception Handling Appllication
 
 It demonstrates the process of correct exception handling in api and web parts of application, generating custom exceptions pages.
+
+Link to blog http://igkuz.ru/blog/
