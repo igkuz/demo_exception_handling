@@ -1,6 +1,6 @@
 class ErrorsController < ApplicationController
   
-  respond_to :json, :html
+  respond_to :html, :json
   
   def not_found
     respond_with({:message => "Not Found"}, :status => :not_found)
